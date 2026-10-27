@@ -68,6 +68,5 @@ This is a suggested learning progression, not an official prerequisite or mandat
 
 Combine official AWS exam preparation materials with practical architecture exercises and systematic review of cloud design principles.
 
-- **Official AWS Resources**: Review the [SAA-C03 certification page](https://aws.amazon.com/certification/certified-solutions-architect-associate/), the [official exam guide](https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03.html), and AWS Skill Builder exam preparation resources.
 - **CertsGate**: Explore [SAA-C03 certification preparation resources](https://certsgate.com/exams/amazon/saa-c03) for supplementary study materials and practice questions.
 - **Practical AWS Architecture Study**: Use the [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/) to review security, reliability, performance efficiency, cost optimization, operational excellence, and sustainability.
